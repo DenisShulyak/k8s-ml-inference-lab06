@@ -1,0 +1,7 @@
+*
+!requirements.txt
+!requirements-ml.txt
+!app/
+!app/main.py
+!app/titanic.py
+!model.pkl
